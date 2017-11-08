@@ -28,7 +28,7 @@ class EmpTest
 public static void main(String ar[])
 {
 Emp e1=new Emp();
-e1.setEmpRecord("Raju",2000);
+e1.setEmpRecord("circuit",2000);
 Emp e2=new Emp();
 e2.setEmpRecord(101,"raj",50000);
 e1.display();
